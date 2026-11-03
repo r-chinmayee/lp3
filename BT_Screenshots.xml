@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <object alt="" name="Image1" object_type="graphic"/>
+ <object alt="" name="Image3" object_type="graphic"/>
+ <object alt="" name="Image4" object_type="graphic"/>
+ <object alt="" name="Image5" object_type="graphic"/>
+ <object alt="" name="Image2" object_type="graphic"/>
+ <object alt="" name="Image6" object_type="graphic"/>
+ <object alt="" name="Image7" object_type="graphic"/>
+ <object alt="" name="Image8" object_type="graphic"/>
+ <object alt="" name="Image9" object_type="graphic"/>
+ <object alt="" name="Image10" object_type="graphic"/>
+ <object alt="" name="Image11" object_type="graphic"/>
+ <object alt="" name="Image12" object_type="graphic"/>
+ <object alt="" name="Image13" object_type="graphic"/>
+ <object alt="" name="Image14" object_type="graphic"/>
+ <object alt="" name="Image15" object_type="graphic"/>
+ <object alt="" name="Image16" object_type="graphic"/>
+ <object alt="" name="Image17" object_type="graphic"/>
+ <object alt="" name="Image18" object_type="graphic"/>
+ <object alt="" name="Image19" object_type="graphic"/>
+ <object alt="" name="Image20" object_type="graphic"/>
+ <object alt="" name="Image21" object_type="graphic"/>
+ <paragraph index="72" node_type="writer">C1</paragraph>
+ <paragraph index="73" node_type="writer">Account created</paragraph>
+ <paragraph index="75" node_type="writer">Test Network (Sepolia)</paragraph>
+ <paragraph index="76" node_type="writer">C1</paragraph>
+ <paragraph index="77" node_type="writer">Account creation</paragraph>
+ <paragraph index="78" node_type="writer">.</paragraph>
+ <paragraph index="80" node_type="writer">Transaction in progress</paragraph>
+ <paragraph index="81" node_type="writer">.</paragraph>
+ <paragraph index="87" node_type="writer">C1</paragraph>
+ <paragraph index="88" node_type="writer">.</paragraph>
+ <paragraph index="89" node_type="writer">Transaction Successful</paragraph>
+ <paragraph index="92" node_type="writer">C2</paragraph>
+ <paragraph index="93" node_type="writer">Create the Contract (SOL file)</paragraph>
+ <paragraph index="95" node_type="writer">Compile the file</paragraph>
+ <paragraph index="97" node_type="writer">C2</paragraph>
+ <paragraph index="98" node_type="writer">Deploy</paragraph>
+ <paragraph index="100" node_type="writer">Accept from MetaMask</paragraph>
+ <paragraph index="102" node_type="writer">C2</paragraph>
+ <paragraph index="103" node_type="writer">Deposit</paragraph>
+ <paragraph index="105" node_type="writer">Show Balance</paragraph>
+ <paragraph index="107" node_type="writer">C2</paragraph>
+ <paragraph index="108" node_type="writer">.</paragraph>
+ <paragraph index="109" node_type="writer">withdrawal
+</paragraph>
+ <paragraph index="110" node_type="writer">C3</paragraph>
+ <paragraph index="111" node_type="writer">Smart Contract (Sol file)</paragraph>
+ <paragraph index="113" node_type="writer">Deploy contract</paragraph>
+ <paragraph index="115" node_type="writer">C3
+.</paragraph>
+ <paragraph index="116" node_type="writer">Add student transaction</paragraph>
+ <paragraph index="118" node_type="writer">Get students, students, total students (read transactions)</paragraph>
+ <paragraph index="120" node_type="writer">C4</paragraph>
+ <paragraph index="121" node_type="writer">Sepolia (Test Network)</paragraph>
+ <paragraph index="123" node_type="writer">Transaction innitiation</paragraph>
+ <paragraph index="125" node_type="writer">C4</paragraph>
+ <paragraph index="126" node_type="writer">Transaction successful</paragraph>
+ <paragraph index="128" node_type="writer">Gas price check on sepolia.etherscan.io</paragraph>
+</indexing>
